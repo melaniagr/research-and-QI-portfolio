@@ -1,6 +1,6 @@
 # 4. Scottish Improvement Foundation Skills (SIFS)
 
-**Programme:** Scottish Improvement Foundation Skills
+**Programme:** Scottish Improvement Foundation Skills  
 **Provider:** NHS Education for Scotland  
 **Duration:** 9 sessions (90 minutes each) + 90 minutes weekly practical project work  
 **Year:** 2024  
