@@ -39,6 +39,8 @@ Evidence of research leadership, clinical quality improvement expertise, and hea
 research-and-qi-portfolio/
 ├── README.md (main overview - SHORT)
 ├── 1-published-research/
+    ├── Article-Soft drink consumption in 4th graders and its relationship with overweight and obesity
+    ├── FEMI prize for independent research
     └── README.md
 ├── 2-uk-clinical-practice/
     ├── Consultants' endorsements
@@ -46,7 +48,7 @@ research-and-qi-portfolio/
     ├── projects 1, 2, 3 - QIs Neurosurgery departamental presentation
     ├── project 4 -Incisional Negative Pressure Wound Dressings (iNPWD) for spinal fusions - national presentation
     ├── project 4 -Scottish Spine Surgeons 14th Annual Meeting - programme and abstracts
-    ├── project 6 - Analysis of RACH CEPOD utilization by Plastics Department
+    ├── project 6 -Analysis of RACH CEPOD utilization by Plastics Department
     └── README.md
 ├── 3-international-health-systems/
     ├── Basic Emergency Course training evaluation report- selected content
@@ -54,7 +56,6 @@ research-and-qi-portfolio/
 ├── 4-Scottish-Improvement-Foundation-Skills-programme-and-audit/
     ├── SIFS short presentation on measures
     ├── PDSA – Introductory tool for new members of the team
-    ├── Introductory tool for new members of QI Team
     ├── Flash report
     ├── SIFS Certificate
     ├── QI Subject Knowledge Before and After SIFS
@@ -64,5 +65,10 @@ research-and-qi-portfolio/
 
 ```
 
+## Context
+
+This portfolio documents research and clinical work. Some part has completed as part of **[PhD Preparation: Computational Cognitive Science](https://github.com/melaniagr/phd-prep)** — Phase 1 onwards.
+
+While the main PhD prep repository tracks learning and skill development, this portfolio showcases the applied research and clinical leadership outcomes from that learning journey.
 
 
