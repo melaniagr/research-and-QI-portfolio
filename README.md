@@ -6,13 +6,17 @@ Evidence of research leadership, clinical quality improvement expertise, and hea
 
 ## Overview
 
-8 projects spanning:
-- **Published international research** (prize-awarded)
-- **UK clinical QI leadership** (6 projects across neurosurgery and plastic surgery; team-led and independent projects)
-- **Systematic audit with national validation** (literature synthesis, baseline audit, intervention, re-audit, presented at national level)
-- **International health systems evaluation** (training impact assessment across Central America)
+**8 projects spanning:**
 
-## Summary of skills gained
+- **Published Research:** MD thesis research (prize-awarded)
+- **UK Clinical Practice:** 6 QI projects across neurosurgery and plastic surgery; team-led and independent initiatives; systematic audit with national validation (literature synthesis, baseline audit, intervention, re-audit)
+- **International Health Systems Evaluation:** BEC Training Evaluation (ICRC); training impact assessment across Central America
+- **Quality Improvement Training:** Scottish Improvement Foundation Skills (SIFS) programme completion; departmental audit support
+- **Systematic Scoping Review:** IMG Mental Wellbeing; primary investigator, University of Glasgow
+
+---
+
+## Summary of skills demonstrated
 
 | Capability | Evidence |
 |-----------|----------|
@@ -26,19 +30,36 @@ Evidence of research leadership, clinical quality improvement expertise, and hea
 | **Independent research capability** | Conceived, designed, and executed international health systems evaluation |
 | **Publication & peer validation** | Published in peer-reviewed journals; presented to professional bodies |
 
-## Structure
+---
+
+## Repo structure
 
 ```
 
 research-and-qi-portfolio/
 ├── README.md (main overview - SHORT)
 ├── 1-published-research/
-│   └── README.md
+    └── README.md
 ├── 2-uk-clinical-practice/
-│   └── README.md
+    ├── Consultants' endorsements
+    ├── projects 1, 2, 3 - QIs Neurosurgery 2024 - preliminar report
+    ├── projects 1, 2, 3 - QIs Neurosurgery departamental presentation
+    ├── project 4 -Incisional Negative Pressure Wound Dressings (iNPWD) for spinal fusions - national presentation
+    ├── project 4 -Scottish Spine Surgeons 14th Annual Meeting - programme and abstracts
+    ├── project 6 - Analysis of RACH CEPOD utilization by Plastics Department
+    └── README.md
 ├── 3-international-health-systems/
-│   └── README.md
-└── 4-qi-and-audit/
+    ├── Basic Emergency Course training evaluation report- selected content
+    └── README.md
+├── 4-Scottish-Improvement-Foundation-Skills-programme-and-audit/
+    ├── SIFS short presentation on measures
+    ├── PDSA – Introductory tool for new members of the team
+    ├── Introductory tool for new members of QI Team
+    ├── Flash report
+    ├── SIFS Certificate
+    ├── QI Subject Knowledge Before and After SIFS
+    └── README.md
+└──Systematic-scoping-review
     └── README.md
 
 ```
