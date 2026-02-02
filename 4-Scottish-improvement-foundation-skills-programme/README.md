@@ -4,6 +4,7 @@
 **Provider:** NHS Education for Scotland  
 **Duration:** 9 sessions (90 minutes each) + 90 minutes weekly practical project work  
 **Year:** 2024  
+**Applied QI:** Supported the *Neuroprotective measures QI*, a large-scale departamental audit.
 **Completion Status:** ✅ Completed
 
 ---
