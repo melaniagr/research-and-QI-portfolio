@@ -1,43 +1,42 @@
-# 4. Scottish Improvement Foundation Skills (SIFS)
+# Scottish Improvement Foundation Skills (SIFS)
 
-**Programme:** Scottish Improvement Foundation Skills  
-**Provider:** NHS Education for Scotland  
-**Duration:** 9 sessions (90 minutes each) + 90 minutes weekly practical project work  
-**Year:** 2024  
-**Applied QI:** Supported the *Neuroprotective measures QI*, a large-scale departamental audit.
-**Completion Status:** ✅ Completed
+**Provider:** NHS Education for Scotland | **Year:** 2024  
+**Role:** Participant & Project Lead (Neuroprotective Measures QI)
 
 ---
 
-## Programme Overview
+## 📈 Learning Impact: Pre vs. Post Assessment
 
-SIFS is a structured quality improvement training programme designed to develop skills in improvement science methodology. The programme teaches participants to:
-- Explain quality improvement concepts and importance
-- Apply improvement science tools (PDSA, measurement, systems thinking)
-- Design and test small-scale improvement projects
-- Report and communicate findings
+Completion of the SIFS programme resulted in a **significant increase in QI subject knowledge**, moving from "Unaware" to "Can Adapt & Explain" across 14/15 core competencies.
 
-## My project
+![QI Subject Knowledge Growth](./Melania%20Geymonat%20Ramirez%20QI%20Subject%20Knowledge%20Before%20and%20After%20SIFS.png)
 
-During the SIFS programme, I supported a **large-scale departmental QI initiative** by participating in team meetings and conducting data gathering. I identified an opportunity to improve the induction process for new QI team members and proposed designing an **"Introductory Tool for New Members"** to standardize and streamline both team onboarding and data collection practices. I completed a **PDSA cycle** to test and refine this tool, demonstrating practical application of improvement science principles learned during the programme.
-
-## Skills Gained
-
-✓ Quality improvement methodology  
-✓ Structured problem-solving  
-✓ Intervention design & testing (PDSA)  
-✓ Data gathering & analysis  
-✓ Improvement communication  
-
-## Documentation Included
-
-- SIFS certificate (programme completion)
-- Flash report (improvement findings summary)
-- 5-minute presentation on measurement approaches
-- PDSA cycle documentation (tool design for QI team)
-- QI subject knowledge assessment (before/after learning gains)
+*Key: 1 = Not aware → 5 = Can adapt and explain*
 
 ---
 
-**Programme Reference:** 
-[SIFS Flyer - NHS Education for Scotland](https://www.careinspectorate.com/images/documents/News/SIFS_flyer_FINAL_v2.pdf)
+## 🛠️ Applied Project: PDSA Tool for Team Induction
+
+**Context:** Supported the *Neuroprotective Measures QI* (large-scale departmental audit).  
+**Problem:** Inefficient and non-standardized induction for new QI team members.  
+**Solution:** Designed and tested an **"Introductory Tool for New Members"** using a PDSA cycle.
+
+| Cycle | Action | Outcome |
+| :--- | :--- | :--- |
+| **Plan** | Test tool with 1 team member; gather qualitative feedback. | Identified need for terminology clarification. |
+| **Do** | Conducted semi-structured interview; refined tool. | Tool demonstrated potential to reduce induction time. |
+| **Study** | Analyzed feedback; assessed feasibility of scaling. | Confirmed efficiency gains; identified measurement challenges. |
+| **Act** | Developed survey for broader rollout; presented to Consultants. | Plan for full-scale implementation approved. |
+
+📄 [View PDSA Documentation](./PDSA%20–%20Introductory%20tool%20for%20new%20members%20of%20the%20team.pdf) • [Measurement Presentation](./Short%20presentation%20on%20measures.pdf)
+
+---
+
+## 📜 Certification
+
+- **Certificate of Completion:** [SIFS Certificate](./SIFS%20Certificate.pdf)
+- **Flash Report:** [Improvement Findings Summary](./Flash%20report.pdf) *(if available)*
+
+---
+
+*Last Updated: August 2026*
