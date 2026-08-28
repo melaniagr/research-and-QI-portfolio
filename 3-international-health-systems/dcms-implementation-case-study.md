@@ -5,6 +5,8 @@
 
 Between 2021 and 2022, I served as Change Officer for the Digital Centre Management System (DCMS) rollout across 40+ physical rehabilitation centres (PRCs) in conflict-affected regions supported by the International Committee of the Red Cross (ICRC). This experience crystallised a central conviction that now shapes my PhD research focus: healthcare innovation succeeds only when it truly understands the people it is intended for.
 
+Note: This case study reflects my early work in implementation science. The insights gained here—particularly regarding human behavior in complex systems—directly informed my pivot to computational neuroscience and my current focus on modeling decision-making processes.
+
 #### The Challenge
 
 The ICRC-supported rehabilitation centres faced multiple, interconnected problems:
