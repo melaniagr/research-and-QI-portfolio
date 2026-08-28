@@ -1,77 +1,51 @@
-# International Medical Graduates' well-being. A scoping review
+# International Medical Graduates' Mental Well-being: A Scoping Review
 
-## Study Overview
-- **Title**: International Medical Graduates' mental well-being: a scoping review 
-- **Primary Investigator**: Melania Geymonat Ramirez
-- **Supervisor**: Professor Mo Al-Haddad, University of Glasgow
-- **Status**: 📍 Data collection and synthesis phase
-- **Target Publication**: 2026
+**Primary Investigator:** Melania Geymonat Ramirez  
+**Supervisor:** Prof. Mo Al-Haddad (University of Glasgow)  
+**Status:** 🟡 **Under Peer Review** (Target Publication: 2026)  
+**Protocol Registered:** [OSF](https://osf.io/75hru)
 
-## Protocol registration
-OSF -Open science framework-: https://osf.io/75hru
+---
 
-## Primary research question(s)
-What is known or has been published about IMGs' mental well-being? 
+## 📊 Study Overview
 
-## Secondary research question(s)
-1.	Are IMGs at higher risk of poor mental well-being, especially compared to DMG?
-2.	What are the consequences of poor mental well-being in IMGs? 
-3.	What factors positively or negatively affect IMGs’ mental well-being?
-4.	What interventions have been instigated to foster good mental well-being of IMGs or to mitigate the negative factors that might affect it? 
+| Metric | Value |
+| :--- | :--- |
+| **Research Question** | What is known about IMGs' mental well-being? |
+| **Methodology** | Systematic Scoping Review (PRISMA-ScR, Arksey & O'Malley) |
+| **Databases Searched** | MEDLINE, Embase, CINAHL, PsychINFO, WoS, Cochrane, Google Scholar |
+| **Records Screened** | **8,000+** initial hits → **178** full-text reviews |
+| **Studies Included** | **81** (Qualitative, Quantitative, Mixed-Methods, Grey Lit) |
+| **Scope** | Global (All countries, all languages, no date restriction) |
 
-## Expectations / hypotheses
-From previous work, we expect to demonstrate a paucity of the literature regarding IMGs' well-being. 
+---
 
-## Methodology
-Systematic scoping review following PRISMA-ScR guidelines
-Arksey and O'Malley methodological framework
+## 🔑 Key Research Questions
 
-Review stages
-We will follow Arksey and O'Maley's six-stage process: 
-1. Identifying the research questions
-2. Identifying relevant studies
-3. Study selection
-4. Charting the data
-5. Collating, summarising, and reporting the results
-6. Consultation exercise
+1.  **Risk Comparison:** Are IMGs at higher risk of poor mental well-being compared to Domestic Medical Graduates (DMG)?
+2.  **Consequences:** What are the downstream effects of poor well-being on clinical practice and patient care?
+3.  **Determinants:** What systemic, cultural, and individual factors drive or mitigate distress?
+4.  **Interventions:** What evidence exists for effective support mechanisms?
 
+---
 
-## Search Strategy
+## 📝 Methodology Highlights
 
-### Databases Searched
-- MEDLINE
-- Embase
-- CINAHL
-- PsychINFO
-- Web of Science
-- Cochrane
-- Google Scholar
+- **Framework:** Arksey and O'Malley six-stage process.
+- **Search Strategy:** Comprehensive search across 7 major databases + grey literature (max 200 Google hits).
+- **Inclusion:** Empirical studies, reviews, editorials, and institutional reports from *any* country/language.
+- **Exclusion:** Studies where IMG data was not reported separately.
 
-### Interfaces
-Ovid
+---
 
-### Grey literature
-The grey literature will be identified from the above databases, especially Web of Science and Google Scholar for conference proceedings, dissertations and theses. Furthermore, we will conduct a Google search to identify reports and monographs published by international, governmental and non-governmental organisations. We will limit the latter search to a maximum of 200 'hits'. 
+## 📂 Current Status
 
-### Inclusion and exclusion criteria
-Inclusion criteria
+- **Manuscript:** Submitted to peer-reviewed journal.
+- **Next Steps:** Awaiting reviewer feedback; revisions anticipated Q1 2026.
+- **Dissemination:** Results will inform future interventions for IMG support in NHS Scotland.
 
-•	Articles reporting or related to mental well-being of IMGs as the primary outcome (area of interest) or as (one of) the major finding(s)/result(s)
-•	At any stage of IMG career including after migration and before employment in the host country
-•	Empirical qualitative, quantitative, and mixed-methods studies as well as all types of reviews published in peer-reviewed journals
-•	Editorials, commentaries, opinion pieces published in peer-review journals
-•	Reports, monographs, commentaries, webpages from institutions or organisation, i.e. the grey literature
-•	All languages
-•	From any country
-•	No date restriction
+📄 [View Protocol Registration](https://osf.io/75hru)
 
-### Exclusion
+---
 
-•	Articles on mental well-being of doctors where the well-being of IMGs is not separately reported
-
-## Results
-- Initial search: [8000+] studies identified
-- Screening phase: [178] studies reviewed full text
-- Final inclusion: 81 studies met inclusion criteria
-
-
+*Last Updated: August 2026*
