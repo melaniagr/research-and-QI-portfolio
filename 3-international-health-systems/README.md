@@ -1,19 +1,43 @@
 # International Health Systems Evaluation
 
-## Featured Project: DCMS Implementation
-
-[→ See detailed case study](dcms-implementation-case-study.md)
-
-This 2021–2022 project leading digital health system implementation across 80+ rehabilitation centres in conflict-affected regions demonstrates applied systems thinking, change management expertise, and evidence-based evaluation methodology.
-
+**Context:** ICRC | **Role:** Change Officer & Lead Evaluator  
+**Scope:** 80+ Rehabilitation Centres (Asia, Africa, Middle East) + Central America
 
 ---
 
-## Other Projects
+## 🏆 Featured Project: DCMS Implementation (2021–2022)
 
-### BEC Training Evaluation (ICRC Central America)
+**Digital Centre Management System (DCMS)**  
+*Open-source platform (OpenMRS + Odoo) for clinical data & resource management.*
 
-**Evaluated behavioral impact of Basic Emergency Care training** across Honduras, El Salvador, and Mexico (2020–2021).
+| Metric | Detail |
+| :--- | :--- |
+| **Scale** | 80+ centres in conflict-affected regions |
+| **Architecture** | Modular EMR (OpenMRS) + ERP (Odoo) with DHIS2 integration |
+| **Change Framework** | ADKAR® Model (Awareness → Reinforcement) |
+| **Key Outcome** | Sustainable local ownership; reduced paperwork; improved data quality |
+| **Impact** | Shifted from "ICRC-imposed system" to "locally-maintained infrastructure" |
 
-[→ Read the evaluation analysis](BEC-training-evaluation-analysis.md)  
-[→ View original report (selected content)](Basic%20Emergency%20Course%20training%20evaluation%20report-%20selected%20content.pdf)
+**Why it matters for Computational Neuroscience:**  
+This project demonstrated that **technology adoption is a behavioral problem**, not just a technical one. It required modeling human decision-making under constraints (resource scarcity, connectivity issues), directly informing my interest in **computational psychiatry and human-computer interaction.**
+
+📄 [Read Full Case Study](./dcms-implementation-case-study.md) • [View Master Presentation](./dcms-master-presentation.pdf) *(if available)*
+
+---
+
+## 📊 BEC Training Evaluation (Central America, 2020–2021)
+
+**Project:** Behavioral impact assessment of Basic Emergency Care training.  
+**Method:** Kirkpatrick Level 3 (Behavioral Change) across Honduras, El Salvador, Mexico.  
+**Sample:** 75 health workers; 27 respondents (39% response rate).
+
+**Key Findings:**
+- **≥75%** reported significant behavioral improvement in clinical domains (ABCDE, trauma care).
+- **Primary Barrier:** Lack of supplies/equipment (not knowledge).
+- **Recommendation:** Systems-level support (resources/protocols) is essential for sustainability.
+
+📄 [Read Evaluation Analysis](./BEC-training-evaluation-analysis.md) • [Original Report (Selected)](./Basic%20Emergency%20Course%20training%20evaluation%20report-%20selected%20content.pdf)
+
+---
+
+*Last Updated: August 2026*
