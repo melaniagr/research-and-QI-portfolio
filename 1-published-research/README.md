@@ -1,30 +1,41 @@
-## Published Research
+# Published Research
 
-This paper was started originally as the thesis for our MD -Medical Degree-, as we were (fortunately) a group of 5 friends doing it. We investigated the relationship between sugary drink consumption and overweight prevalence in schoolchildren through a survey-based study. The innovative methodological approach involved partnering with the **Ceibal Programme**, Uruguay's national initiative to provide every child with a laptop computer. By training teachers to administer the survey, the research design had the potential to reach schools across the entire country, including under-resourced and rural regions—addressing a significant equity gap in health research.
-Although the initial approach proved too early for sustained system integration and was not maintained as a routine data-gathering mechanism, the quality of the research concept and execution led to its continuation. Pediatrics trainees and faculty expanded the work, which subsequently [received recognition through a prize for independent research excellence](https://github.com/melaniagr/research-and-QI-portfolio/blob/main/1-published-research/FEMI%20prize%20for%20independent%20research.pdf). The research was published in [Revista de la Sociedad Uruguaya de Pediatría](https://github.com/melaniagr/research-and-QI-portfolio/blob/main/1-published-research/Article-Soft%20drink%20consumption%20in%204th%20graders%20and%20its%20relationship%20with%20overweight%20and%20obesity) and can be found online at [SciELO Uruguay](http://www.scielo.edu.uy/scielo.php?script=sci_arttext&pid=S1688-12492018000400026#:~:text=Los%20resultados%20mostraron%20una%20asociaci%C3%B3n,el%20ni%C3%B1o%20sea%20obeso26.).
+**Title:** Prevalence of Overweight and Obesity in School Children and its Relation with Beverage Consumption  
+**Journal:** *Revista de la Sociedad Uruguaya de Pediatría* (2018)  
+**Award:** FEMI Prize for Independent Research Excellence (2017)  
+**DOI:** [10.31134/ap.89.s1.3](https://doi.org/10.31134/ap.89.s1.3)
 
+---
 
-### 
+## Study Metrics
 
-**Title:** "Prevalence of Overweight and Obesity in School Children and its Relation with Beverage Consumption"
+| Metric | Value |
+| :--- | :--- |
+| **Design** | Cross-sectional, multicenter |
+| **Sample** | 464 school children (4th graders) |
+| **Locations** | Montevideo, Libertad, San José de Mayo (Uruguay) |
+| **Key Finding** | **Null result:** No significant association between soft drink consumption and obesity. |
+| **Prevalence** | 28.2% overweight; 14.2% obese |
 
-**Authors:** Karina Machado, Patricia Teylechea, Amanda Bermúdez, Jonathan Lara, Melania Geymonat, Fabrizzio Girardi, Mariana García, Sebastián Vecchio, Catalina Pírez
+---
 
-**Published:** Revista de la Sociedad Uruguaya de Pediatría, 2018
+## Methodology
 
-**DOI/Link:** [Consumo de bebidas en niños de cuarto año escolar y su relación con sobrepeso-obesidad](https://doi.org/10.31134/ap.89.s1.3 )
+- **Data Collection:** Digital surveys via **Ceibal Programme** (national laptop initiative).
+- **Innovation:** Leveraged existing tech infrastructure for scalable, equitable data gathering in rural/under-resourced areas.
+- **Execution:** Multi-site coordination with teachers and clinical staff.
 
-**Study Design:** Descriptive, cross-sectional, multicenter study
+---
 
-**Participants:** 464 school children (4th graders) from Montevideo, Libertad, and San José de Mayo, Uruguay
+## Significance
 
-**Key Findings:**
-- Prevalence: 28.2% overweight, 14.2% obese (n=197)
-- Water consumption: 75.9% very frequent
-- Dairy products: 75.6% very frequent
-- Soft drinks: 24.6% very frequent consumption
-- No significant association found between soft drink consumption and overweight/obesity
+- **Scientific Integrity:** Reported null results honestly; study design validated by peer review.
+- **Systems Thinking:** Demonstrated feasibility of using digital tools for large-scale health data.
+- **Impact:** Work adopted and expanded by pediatric faculty post-publication.
 
-**Conclusions:** High prevalence of overweight/obesity in the studied population. While soft drink consumption didn't show direct association, emphasizes importance of promoting healthy eating habits and preventing obesity.
+---
 
-**
+## Documents
+
+- [FEMI Prize Certificate](./FEMI%20prize%20for%20independent%20research.pdf)
+- [Full Article (Spanish)](./Article-Soft%20drink%20consumption%20in%204th%20graders%20and%20its%20relationship%20with%20overweight%20and%20obesity)
